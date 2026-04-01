@@ -51,4 +51,8 @@ Next, place `channel_train.npy` and `channel_test.npy` in the path: `./tools`
 | **Evaluate LMMSE** | Set ce_type = 'mmse', test_ce = True in main.py. |
 | **Remove CP** | Toggle CP_flag = False in main.py to observe performance degradation due to ISI. |
 | **Run** | Execute: `python main.py` for each configuration phase. |
-   
+
+## Final Result
+Execute: `python plot_mse.py` displays a comparison chart of the results.
+
+   ![MSE Performance Result](MSEvsSNR_Result.png)
