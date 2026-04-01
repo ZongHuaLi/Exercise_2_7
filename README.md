@@ -41,6 +41,8 @@ To complete this exercise, I performed the following technical implementations:
 The data set cannot be uploaded to GitHub due to its large file size. It can be downloaded from the following Google Drive link:
 [download dataset](https://drive.google.com/drive/folders/1RfGs-HHSjNnYyosmEFZe8z7iAQ9fPnav?usp=sharing)
 
+Next, place `channel_train.npy` and `channel_test.npy` in the path: `./tools`
+
 ## Execution Workflow
 
 | Checklist | Configuration |
