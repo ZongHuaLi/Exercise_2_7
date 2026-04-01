@@ -25,7 +25,6 @@ The project is configured for Windows 10/11 with an NVIDIA RTX 4050 GPU for hard
    ```bash
    pip install -r requirements.txt
 
-
 ## Implementation Details & Modifications
 To complete this exercise, I performed the following technical implementations:
 1. **DNN-based Estimator Implementation:**
