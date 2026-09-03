@@ -56,3 +56,6 @@ Next, place `channel_train.npy` and `channel_test.npy` in the path: `./tools`
 Execute: `python plot_mse.py` displays a comparison chart of the results.
 
    ![MSE Performance Result](MSEvsSNR_Result.png)
+
+## Acknowledgements
+This project includes code referenced and modified from [le-liang/wcmlbook](https://github.com/le-liang/wcmlbook.git).
